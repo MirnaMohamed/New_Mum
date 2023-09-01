@@ -40,10 +40,5 @@
 ****
 
 ### APIs Contracts
-
+- will be added later
 [//]: # (Will defined later .....)
-
-### Swagger Documentation :
-
-[//]: # (Will Add swagger documenation link)
-
